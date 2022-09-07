@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/50572289/188328370-a87d6403-993a-459b-9c15-8cc71579ea5a.png)
+-----
 ![image](https://user-images.githubusercontent.com/50572289/188496699-19139a55-f794-4650-ab5a-e4d440f4987b.png)
 ------
 https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
@@ -8,3 +9,6 @@ https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/
 ![image](https://user-images.githubusercontent.com/50572289/188697554-a34fa978-1b27-4ad7-8bb6-bf0b44ff3581.png)
 ----
 https://stackoverflow.com/questions/48288670/how-to-resolve-a-git-conflict-modify-delete
+----
+![image](https://user-images.githubusercontent.com/50572289/188960393-202fe320-1720-42d4-bc71-9bc8fb45379c.png)
+----
